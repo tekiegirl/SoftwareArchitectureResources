@@ -1,4 +1,4 @@
-[> Main Readme](README.md)
+[View in Github Pages](https://tekiegirl.github.io/SoftwareArchitectureResources/)  |  [View GitHub Repository](https://github.com/tekiegirl/SoftwareArchitectureResources)
 
 ---
 
@@ -26,4 +26,4 @@ Read the [license for this repository](LICENSE) before you fork or download.
 
 ---
 
-[> Main Readme](README.md)
+[View in Github Pages](https://tekiegirl.github.io/SoftwareArchitectureResources/)  |  [View GitHub Repository](https://github.com/tekiegirl/SoftwareArchitectureResources)
