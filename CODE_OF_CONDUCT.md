@@ -1,4 +1,4 @@
-[Back to Readme](README.md)
+[> Main Readme](README.md)
 
 ---
 
@@ -80,4 +80,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](http://contribut
 
 ---
 
-[Back to Readme](README.md)
+[> Main Readme](README.md)
