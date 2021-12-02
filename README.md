@@ -1,4 +1,4 @@
-[Back to Readme](README.md)
+[> Main Readme](README.md)
 
 ---
 
@@ -26,4 +26,4 @@ Read the [license for this repository](LICENSE) before you fork or download.
 
 ---
 
-[Back to Readme](README.md)
+[> Main Readme](README.md)
