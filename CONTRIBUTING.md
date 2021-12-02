@@ -1,4 +1,4 @@
-[Back to Readme](README.md)
+[> Main Readme](README.md)
 
 ---
 
@@ -28,4 +28,4 @@ Take a look at the current content of the repository to get the idea, but here a
 
 ---
 
-[Back to Readme](README.md)
+[> Main Readme](README.md)
