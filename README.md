@@ -16,6 +16,9 @@ We are all learning, whatever stage of our software architecture career we are i
 
 ## Resources
 
+- [All Resources](Resources/README.md)
+- [O'Reilly Software Architecture Kata Entries](Resources/OReillyKata.md)
+
 ## Contribute
 
 This is a community project and contributions are welcomed from anyone. Please see the[ contribution guidelines](CONTRIBUTING.md) for how to contribute resources to this project and read the [Code of Conduct](CODE_OF_CONDUCT.md) before making any contributions, opening any issues, etc.
