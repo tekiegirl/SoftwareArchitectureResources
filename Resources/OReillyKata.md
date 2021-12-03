@@ -12,6 +12,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 - <a href="#fall21">Finalist: Autumn/Fall 2021</a>
 - <a href="#spring21">Finalists: Spring 2021</a>
+- <a href="#fall20">Finalist: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
 
 <a name="fall21"></a>
@@ -51,6 +52,25 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - [GlobalArchitects](https://github.com/archkatas-team-oreilly-21/solution)
 - [Pentagram](https://github.com/amitosaurus/pentagram)
 - [Renaissance](https://github.com/akryvko/architectural-katas-renaissance)
+
+<a name="fall20"></a>
+
+## Finalist: Autumn/Fall 2020
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2020.
+
+1. [ArchColider](https://github.com/ldynia/archcolider)
+2. [Myagis Forest](https://github.com/miyagis-forests/farmacy-food-kata)
+3. [Jedis](https://github.com/TheJedis2020/arch_katas_2020)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [Jaikaturi](https://github.com/lookfwd/archkata)
+- [Self-Driven Team](https://github.com/selfdriventeam/kata)
+- [Super Kings](https://github.com/lastlegion/arch-katas)
+- [Team Pacman](https://github.com/icedhacker/architecture-katas)
 
 ---
 
