@@ -10,14 +10,14 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
-- <a href="#fall21">Finalist: Autumn/Fall 2021</a>
+- <a href="#fall21">Finalists: Autumn/Fall 2021</a>
 - <a href="#spring21">Finalists: Spring 2021</a>
-- <a href="#fall20">Finalist: Autumn/Fall 2020</a>
+- <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
 
 <a name="fall21"></a>
 
-## Finalist: Autumn/Fall 2021 
+## Finalists: Autumn/Fall 2021 
 
 > GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2021.
 
@@ -55,7 +55,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 <a name="fall20"></a>
 
-## Finalist: Autumn/Fall 2020
+## Finalists: Autumn/Fall 2020
 
 > GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2020.
 
