@@ -12,7 +12,7 @@ A collection of resources for supporting and learning about software architectur
 
 From taking part in the O'Reilly Architecture Katas it became clear that there are many GitHub repositories that contain great ideas and examples of software architecture practice. Add this to all the resources on blogs, etc, and there is a wealth of information out there for those already working in software architecture and those wanting to move into this domain professionally. 
 
-We are all learning, whatever stage of our software architecture career we are in. The aim of this repository is to collect together resources from the O'Reilly Architecture Katas, and also elsewhere on the web, and a reference for anyone who wants to use it.
+We are all learning, whatever stage of our software architecture career we are in. The aim of this repository is to collect together resources from the O'Reilly Architecture Katas, and also elsewhere on the web, as a reference for anyone who wants to use it.
 
 ## Resources
 
