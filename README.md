@@ -6,7 +6,7 @@
 
 A collection of resources for supporting and learning about software architecture.
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) [![GitHub](https://img.shields.io/github/license/tekiegirl/SoftwareArchitectureResources)](LICENSE)[![GitHub last commit](https://img.shields.io/github/last-commit/tekiegirl/SoftwareArchitectureResources)](https://github.com/tekiegirl/SoftwareArchitectureResources/commits/main) [![GitHub forks](https://img.shields.io/github/forks/tekiegirl/SoftwareArchitectureResources?style=social)](https://github.com/tekiegirl/SoftwareArchitectureResources/network/members) [![GitHub Repo stars](https://img.shields.io/github/stars/tekiegirl/SoftwareArchitectureResources?style=social)](https://github.com/tekiegirl/SoftwareArchitectureResources/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/tekiegirl/SoftwareArchitectureResources?style=social)](https://github.com/tekiegirl/SoftwareArchitectureResources/watchers)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) [![GitHub](https://img.shields.io/github/license/tekiegirl/SoftwareArchitectureResources)](LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/tekiegirl/SoftwareArchitectureResources)](https://github.com/tekiegirl/SoftwareArchitectureResources/commits/main) [![GitHub forks](https://img.shields.io/github/forks/tekiegirl/SoftwareArchitectureResources?style=social)](https://github.com/tekiegirl/SoftwareArchitectureResources/network/members) [![GitHub Repo stars](https://img.shields.io/github/stars/tekiegirl/SoftwareArchitectureResources?style=social)](https://github.com/tekiegirl/SoftwareArchitectureResources/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/tekiegirl/SoftwareArchitectureResources?style=social)](https://github.com/tekiegirl/SoftwareArchitectureResources/watchers)
 
 ## Introduction
 
@@ -18,6 +18,7 @@ We are all learning, whatever stage of our software architecture career we are i
 
 - [All Resources](Resources/README.md)
 - [O'Reilly Software Architecture Kata Entries](Resources/OReillyKata.md)
+- [Foundations of Software Architecture](Foundations.md)
 
 ## Contribute
 
