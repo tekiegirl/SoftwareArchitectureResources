@@ -18,7 +18,7 @@ We are all learning, whatever stage of our software architecture career we are i
 
 - [All Resources](Resources/README.md)
 - [O'Reilly Software Architecture Kata Entries](Resources/OReillyKata.md)
-- [Foundations of Software Architecture](Foundations.md)
+- [Foundations of Software Architecture](Resources/Foundations.md)
 
 ## Contribute
 
