@@ -7,8 +7,7 @@
 > A  list of all software architecture resources in this project.
 
 - [O'Reilly Software Architecture Kata Entries](OReillyKata.md)
-
-
+- [Foundations of Software Architecture](Foundations.md)
 
 ---
 
