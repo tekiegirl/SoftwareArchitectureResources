@@ -10,10 +10,31 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#spring22">Finalists: Spring 2022</a>
 - <a href="#fall21">Finalists: Autumn/Fall 2021</a>
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="spring22"></a>
+
+## Finalists: Spring 2022 
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Spring Architecture Kata 2022.
+
+1. [Pegasuz](https://github.com/z-katas/arch-katas-dcc)
+2. [The Marmots](https://github.com/TheMarmots/ArchKatas2022)
+3. [The Globl Variables](https://github.com/IlluminatePossibilities)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [Arch8s](https://github.com/arch8s/spring-2022)
+- [Goal Diggers](https://github.com/goaldiggers-kata/goaldiggers)
+- [Kamikaze Slayers](https://github.com/kamikazeSlayers/architectural-katas-2022)
+- [Shokunin](https://github.com/Sruinard/ArchitectureKata)
+- [Wright Stuff](https://github.com/WrightStuffNJ)
 
 <a name="fall21"></a>
 
