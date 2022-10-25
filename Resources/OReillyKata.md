@@ -24,7 +24,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 1. [Pegasuz](https://github.com/z-katas/arch-katas-dcc)
 2. [The Marmots](https://github.com/TheMarmots/ArchKatas2022)
-3. [The Globl Variables](https://github.com/IlluminatePossibilities)
+3. [The Global Variables](https://github.com/IlluminatePossibilities)
 
 ### Runners-Up
 
