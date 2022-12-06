@@ -10,11 +10,30 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#fall22">Finalists: Autumn/Fall 2022</a>
 - <a href="#spring22">Finalists: Spring 2022</a>
 - <a href="#fall21">Finalists: Autumn/Fall 2021</a>
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="fall22"></a>
+
+## Finalists: Autumn/Fall 2022 
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2022.
+
+1. [monArch](https://github.com/mynksnh/ArchKatas2022)
+2. [IPT](https://github.com/iptch-public/2022-fall-architectural-katas)
+3. [The Black Cat Manifestation](https://github.com/jjones203/architecture_kata)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [Achievers](https://github.com/The-Achievers-Team/ArchKatas2022)
+- [ItDepends](https://github.com/ITDependsQ42022/Hey-Blue)
+- [Los Ingenials](https://github.com/ingeniala/heybluekata)
 
 <a name="spring22"></a>
 
