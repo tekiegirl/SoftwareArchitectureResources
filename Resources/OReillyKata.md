@@ -10,12 +10,34 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#fallex23">Finalists: Autumn/Fall (external) 2023</a>
 - <a href="#fall22">Finalists: Autumn/Fall 2022</a>
 - <a href="#spring22">Finalists: Spring 2022</a>
 - <a href="#fall21">Finalists: Autumn/Fall 2021</a>
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="fallex23"></a>
+
+## Finalists: Autumn/Fall (external) 2023
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall (external) Architecture Kata 2023.
+
+1. [Profitero Data Alchemists](https://github.com/Profitero-Data-Alchemists/katas-2023)
+2. [Iconites](https://github.com/KarlFarrugiaIcon/OreillyKatas2023)
+3. [Flexibility Fertilisers](https://github.com/intelligent-growth-solutions/flexibility-fertilisers)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [ArchEnemies](https://github.com/relic-da/ArchEnemies.git)
+- [Byte Me](https://github.com/manu29585/ArchitectureKata)
+- [Cloudeneers](https://github.com/Orry/CloudeneersArchKata2023)
+- [Magenta Force](https://github.com/wschaef/architecture-kata-2023)
+- [Team Neurocom aka Street Fighters](https://github.com/neurocom/street-fighter)
+- [Worried Warriors](https://github.com/roadwarriorkata/architecture)
 
 <a name="fall22"></a>
 
