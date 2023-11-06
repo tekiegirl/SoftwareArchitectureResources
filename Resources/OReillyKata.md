@@ -75,7 +75,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - [Goal Diggers](https://github.com/goaldiggers-kata/goaldiggers)
 - [Kamikaze Slayers](https://github.com/kamikazeSlayers/architectural-katas-2022)
 - [Shokunin](https://github.com/Sruinard/ArchitectureKata)
-- [Wright Stuff](https://github.com/WrightStuffNJ)
+- [Wright Stuff](https://github.com/WrightStuffNJ/WrightStuffNJ)
 
 <a name="fall21"></a>
 
