@@ -10,6 +10,7 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 
 ## Content
 
+- <a href="#fall23">Finalists: Autumn/Fall 2023</a>
 - <a href="#fallex23">Finalists: Autumn/Fall (external) 2023</a>
 - <a href="#fall22">Finalists: Autumn/Fall 2022</a>
 - <a href="#spring22">Finalists: Spring 2022</a>
@@ -17,6 +18,24 @@ Finalist entries to the O'Reilly Software Architecture Katas give us excellent e
 - <a href="#spring21">Finalists: Spring 2021</a>
 - <a href="#fall20">Finalists: Autumn/Fall 2020</a>
 - <a href="#oreillykatas">O'Reilly Architectural Katas</a>
+
+<a name="fall23"></a>
+
+## Finalists: Autumn/Fall 2023
+
+> GitHub Repositories of the top 3 and runners-up of the O'Reilly Autumn/Fall Architecture Kata 2022.
+
+1. [CELUS Ceals](https://github.com/Kata-Ceals/Architectural-Katas-Fall-2023)
+2. [Rapid Response](https://github.com/dscherbak/rapid-response-katas)
+3. [Wonderous Toys](https://github.com/adamhill/ArchitecturalKatas-2023.git)
+
+### Runners-Up
+
+> Listed in alphabetical order with no ranking.
+
+- [AnimAI](https://github.com/plmsprd/AnimAI)
+- [WildCode Wranglers](https://github.com/Team-WildCode/Katas-WildCode)
+- [Wildlife Watchers](https://github.com/WildSight-Wizards/wildlifewatcher)
 
 <a name="fallex23"></a>
 
