@@ -1,3 +1,4 @@
 # Exclude OS settings and caches
 .trash/
 .DS_Store
+/.vscode
